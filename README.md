@@ -1,0 +1,1 @@
+Before using this scraper you need to get actual timestamp from depop.com website, you can copy "cursor" option and decode it thru software and insert actual timestamp in the "current_timestamp" variable
